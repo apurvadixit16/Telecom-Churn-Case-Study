@@ -6,13 +6,15 @@ The company wants to know:
 - Important variables that are strong predictors of churn
 
 ## Inference
-1. Models used are as follows - 
-2. LR With PCA									
-3. Random Forest with Default Parameter		
-4. Random Forest with Hyper-Parameter			
-5. XGBoost										
+
+- Models used are as follows - 
+1. LR With PCA									
+2. Random Forest with Default Parameter		
+3. Random Forest with Hyper-Parameter			
+4. XGBoost										
 
 **On kaggle evaluation data, best accuracy observed with Random Forest with hyper-parameter tunning**
+
 Accuracy - 0.93186
 
 Top 10 variables that are significant in predicting the churn users:
